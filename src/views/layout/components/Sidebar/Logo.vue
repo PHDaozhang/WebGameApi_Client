@@ -25,7 +25,7 @@ export default {
   },
   data() {
     return {
-      title: '速云金服',
+      title: 'API后台',
       logo: logoImg
     }
   }
